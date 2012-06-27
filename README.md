@@ -1,10 +1,9 @@
 Pusher-Canvas
 =============
 
-Mashed and tweaked by Joao Pescada (joaopescada.com) for learning purposes.
+Mashed and tweaked by Joao Pescada (joaopescada.com) as a proof of concept.
 
 Uses Pusher's API (http://pusher.com/) to collaborate over an HTML5 canvas animation rendered using requestAnimationFrame. 
-Click / touch canvas (or shake your mobile device) to change active colour on all connected clients.
 
 This mashup uses code from: 
 - Pusher docs (http://pusher.com/docs)
@@ -15,3 +14,7 @@ This mashup uses code from:
 
 Working demo:
 http://labs.joaopescada.com/pusher-canvas/
+
+Instructions:
+1. Open demo link in multiple devices (desktop, laptop, smartphone, tablet, tv(?) )
+2. Click / touch canvas (or shake your mobile device) to change active colour on all connected clients.
