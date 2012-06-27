@@ -1,7 +1,7 @@
 Pusher-Canvas
 =============
 
-Mashed and tweaked by Joao Pescada (joaopescada.com) as a proof of concept.
+Mashed and tweaked by me as a proof of concept.
 
 Uses Pusher's API (http://pusher.com/) to collaborate over an HTML5 canvas animation rendered using requestAnimationFrame. 
 
